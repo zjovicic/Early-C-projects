@@ -1,4 +1,4 @@
-# Early-C-projects
+# Early C# projects
 C# programs I made while learning
 
 ### Fountain of Objects.cs
