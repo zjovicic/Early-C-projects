@@ -14,7 +14,7 @@ for (int i = 0; i < fields.GetLength(0); i++)
     }
 }
 
-// Mail loop of the simulation
+// Main loop of the simulation
 while(true)
 {
     PrintGrid(fields);
